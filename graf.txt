@@ -1,0 +1,31 @@
+*   00224e3 (HEAD -> main, origin/main) Merge branch 'feature_strona'
+|\  
+| * 542a117 (origin/feature_strona, feature_strona) zmiany linii w strona.txt
+| | * 0714fca (refs/stash) WIP on feature_strona: f6f30a2 dodanie feature strona
+| |/| 
+| | * ff557d0 index on feature_strona: f6f30a2 dodanie feature strona
+| |/  
+| * f6f30a2 dodanie feature strona
+|/  
+*   7efeb7e merge feature'ów lorem do main
+|\  
+| * 3953efc (origin/lorem_2, lorem_2) feature lorem ipsum - wersja 2
+* |   8d19d65 Merge branch 'lorem_1' Feature branch Lorem Wersja 1
+|\ \  
+| |/  
+|/|   
+| * f3daee1 (origin/lorem_1, lorem_1) feature lorem ipsum - wesja 1
+|/  
+*   dd0d021 Merge pull request #1 from DobryPpz/hotfix_okmessage
+|\  
+| * 818afa3 (origin/hotfix_okmessage) hotfix ok message Hello World! -> drop database
+|/  
+*   c7ff942 Merge branch 'release'
+|\  
+| * ba576c6 (tag: v1.0, origin/release, release) Merge branch 'develop' into release
+|/| 
+| * b790204 (origin/develop, develop) Merge branch 'ok_feature' into develop Wprowadzenie funkcjonalności przekazywania treści świadczącej o tym, że projekt działa bez zarzutu
+|/| 
+| * d391ae5 (origin/ok_feature, ok_feature) funkcjonalność przekazywania treści świadczącej o tym, że projekt działa bez zarzutu
+|/  
+* 190bd6a dodanie gitignore
