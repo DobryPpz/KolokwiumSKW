@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(int argc, char *argv[]){
-    printf("Hello World!\n");
+    printf("drop database\n");
     return 0;
 }
